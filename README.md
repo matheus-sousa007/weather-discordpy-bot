@@ -7,6 +7,6 @@ Baixe o repositório em sua máquina e descompacte. Você precisará do seu toke
 > ```python launcher.py```
 
 ## Comandos do Bot
-    * prefixo: ```! ou .```
-    * ```.search <cidade>```: mostra as condições climáticas da cidade desejada
-    * ```.state```: mostra as condições climáticas conforme é informada a cidade e o estado pertencente.
+* prefixo: ```! ou .```
+* ```.search <cidade>```: mostra as condições climáticas da cidade desejada
+* ```.state```: mostra as condições climáticas conforme é informada a cidade e o estado pertencente.
