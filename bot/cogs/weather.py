@@ -5,7 +5,7 @@ import discord
 from discord.ext import commands
 import json
 
-with open("../../data/api_key.0", "r", encoding="utf-8") as f:
+with open("data/api_key.0", "r", encoding="utf-8") as f:
     API_KEY = f.read()
 
 class Weather(commands.Cog):
