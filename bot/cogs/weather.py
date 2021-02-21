@@ -51,3 +51,9 @@ class Weather(commands.Cog):
 
 def setup(bot):
     bot.add_cog(Weather(bot))
+
+#modularizar o código --> aprimoração
+    # Transformar em uma variavel -> conversão de temperatura
+# Transformar a conversão de temperatura em função --> temp, sens ...
+# Transformar a chamada da URL em função
+# Colocar todas as funções dentro de uma classe WeatherAPI
